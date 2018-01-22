@@ -33,4 +33,4 @@
   Видео|Пятница|12:10-13:30
   Латинский язык|Суббота|13:30-15:00
    
-   ![] (https://yandex.ru/images/search?text=%D0%B2%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D1%84%D0%B5%D0%B4%D0%BE%D1%82%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2%D0%B0&noreask=1&img_url=https%3A%2F%2Fpp.userapi.com%2Fc621515%2Fv621515963%2F3a577%2FTo_2RySdAVs.jpg&pos=0&rpt=simage&lr=216)
+   ![] (https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
