@@ -33,4 +33,4 @@
   Видео|Пятница|12:10-13:30
   Латинский язык|Суббота|13:30-15:00
    
-   ![] (https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
+   ![](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
